@@ -1,4 +1,8 @@
-streamlit
-transformers
+Flask
 torch
-astor
+transformers
+sentencepiece
+accelerate
+spacy
+Flask-Cors
+pyngrok
